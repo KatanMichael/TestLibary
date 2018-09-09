@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestLibary.iml" filepath="$PROJECT_DIR$/.idea/modules/TestLibary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestLibary_main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestLibary_main.iml" group="TestLibary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestLibary_test.iml" filepath="$PROJECT_DIR$/.idea/modules/TestLibary_test.iml" group="TestLibary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="util" />
     </modules>
   </component>
 </project>

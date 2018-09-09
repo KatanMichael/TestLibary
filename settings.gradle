@@ -1,2 +1,3 @@
 rootProject.name = 'TestLibary'
+include 'util'
 
